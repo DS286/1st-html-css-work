@@ -1,0 +1,31 @@
+  body {
+    background-color: #66bfbf;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #800080;
+    border-width: 10px;
+    width: 20%;
+  }
+
+  h1 {
+    color: #800080;
+  }
+
+  h3 {
+    color: #800080;
+  }
+
+  .bean {
+    border-radius: 100%;
+    background-color: pink;
+    height: 150px;
+  }
+  img {
+    border-radius: 100%;
+  }
+  .bean:hover{
+    background-color: gold;
+  }
